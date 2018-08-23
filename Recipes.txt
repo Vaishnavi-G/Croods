@@ -5,5 +5,7 @@ RECIPES
 1.Chicken Biryani
 2.Chicken Lollipop
 3.Chicken Fry
+4.Burger
+5.Pizza
 
 Thankyou:)
